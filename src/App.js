@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 import ImageGrid from './components/image-grid'
 import ClickyHeader from './components/clickyHeader'
+import characters from './characters.json'
 
 class App extends Component {
   constructor() {
